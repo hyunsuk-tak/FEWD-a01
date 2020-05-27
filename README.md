@@ -11,4 +11,4 @@ Hello, My name is **Hyunsuk Tak**! I am from South Korea. After marriage, I move
 * Shopping
 
 **Some picture from La Jolla beach**
-![some bird](https://www.facebook.com/photo?fbid=3520729877998187&set=a.3520730014664840)
+![some bird](www.facebook.com/photo?fbid=3520729877998187&set=a.3520730014664840)
